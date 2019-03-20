@@ -1,4 +1,4 @@
-package com.lcvc.ebuy_xy.web;
+package com.lcvc.ebuy_xy.web.backstage;
 
 import com.lcvc.ebuy_xy.dao.AdminDao;
 
